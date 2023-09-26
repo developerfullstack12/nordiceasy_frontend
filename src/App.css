@@ -1,0 +1,40 @@
+.header {
+  height: 60px;
+  background-color: rgb(164, 165, 164);
+  width: 100%;
+}
+.table {
+  padding: 70px;
+}
+.addbutton {
+  height: 40px;
+  width: 120px;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.buttonlink {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.adduser {
+  border: 1px solid black;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin: 0px auto;
+  margin-top: 233px;
+}
+.error-message{
+  color:red;
+}
+.buttonlink button{
+  margin-bottom: 10px;
+}
